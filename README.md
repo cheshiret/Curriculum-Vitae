@@ -1,5 +1,4 @@
 # Curriculum-Vitae
----
 
 I'm tony chen, the repo is about my resume. And there are two folders, one for enlish and the other is chinese version, in each folder there will some files as below.
 
